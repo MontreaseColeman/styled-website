@@ -1,0 +1,46 @@
+#wraper{
+    background-color: rgb(128, 0, 117);
+}
+.row{
+    background-color: rgb(128, 0, 96);
+}
+#image{
+    background-color: rgb(128, 0, 107); 
+}
+#parent{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-gap: 10px;
+    margin-top: 20px;
+}
+img{
+    border-radius: 50%;
+
+}
+body {background-image: url(sankofa.jpg);
+background-size: 50%;
+}
+#pic1{
+    height: 80px;
+}
+#pic2{
+    height: 80px;
+}
+#pic3{
+    height: 80px;
+}
+#pic4{
+    height: 80px;
+}
+#pic5{
+    height: 80px;
+}
+#pic6{
+    height: 80px;
+}
+#icon{
+    height: 80px;
+}
+#image-container{
+    margin-top: 20px;
+}
